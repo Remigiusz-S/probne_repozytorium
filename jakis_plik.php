@@ -8,3 +8,4 @@
 
 echo 'to jakis plik';
 echo '<br />linijka 2';
+echo '<br />nowa linijka';
