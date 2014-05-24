@@ -6,5 +6,3 @@
  * and open the template in the editor.
  */
 
-echo 'to jakis plik';
-echo '<br />linijka 2';

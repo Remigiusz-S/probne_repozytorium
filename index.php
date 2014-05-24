@@ -10,7 +10,7 @@ echo 'to index<br />';
 
 include 'jakis_plik.php';
 
-
+include 'inny_plik.php';
 
 
 
