@@ -12,6 +12,10 @@ include 'jakis_plik.php';
 
 include 'inny_plik.php';
 
+include 'jakis_katalog/index.php';
+
+echo napis();
+
 
 
 
