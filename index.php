@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-echo 'to index<br />';
+echo 'to index<br /> jakis dopisek';
 
 include 'jakis_plik.php';
 
